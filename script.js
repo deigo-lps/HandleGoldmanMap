@@ -1187,8 +1187,8 @@ const handleMap = (data) => {
     text.setAttribute("y", textY);
     text.setAttribute("fill", "white");
     text.setAttribute("text-anchor", "middle");
-    text.setAttribute("font-family", "Arial");
-    text.setAttribute("font-size", "12px");
+    text.setAttribute("font-family", "Barlow");
+    text.setAttribute("font-size", "20px");
     text.setAttribute("stateName", stateAttribute);
     text.textContent = stateAttribute;
 
